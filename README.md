@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Julia involving conditional logic within a function. The `my_function` is designed to return the square of a positive input and the negation of a negative input. However, a closer look reveals a subtle mistake that leads to unexpected outputs. The solution file provides the corrected implementation.
